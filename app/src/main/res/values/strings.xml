@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wordmania</string>
+    <string name="app_name_upper">WORDMANIA</string>
+    <string name="start">START</string>
+    <string name="welcome_to">Welcome to\n</string>
+    <string name="hide_vowels">Hide vowels</string>
+    <string name="hide_consonants">Hide consonants</string>
+    <string name="score">Score: %d</string>
+    <string name="word">Word: %d/10</string>
+    <string name="instruction">Replace the * with the correct letter</string>
+    <string name="submit">submit</string>
+    <string name="skip">skip</string>
+    <string name="enter_your_guess">Enter your guess</string>
+    <string name="guess_is_wrong_try_again">Guess is wrong! Try again</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="final_score">FINAL SCORE</string>
+    <string name="d_10">%d</string>
+    <string name="exit">exit</string>
+    <string name="restart">restart</string>
+    <string name="do_you_want_to_end_the_game">Do you want to end the game?</string>
+    <string name="alert">ALERT</string>
+</resources>
